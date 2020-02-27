@@ -1,0 +1,14 @@
+{
+  "name": "rest-node-docker-compose",
+  "version": "1.0.0",
+  "description": "Express rest with docker compose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Imam A. Surya",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
